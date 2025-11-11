@@ -14,4 +14,4 @@ What is a potential change you’d make to the approach taken in your current Qu
     **I definitely would have tried to take a more theorical approach to my topic, as opposed to experimenting with how SWA interacts with different factors. Finding out why something happens will probably be my next goal, as some theory will be necessary.**
 
 What other techniques would you be interested in using in your project?
-    **One thing I want to try is to map out the loss area to maybe find something that explains how SWA leads to better generalization.**
+    **One thing I want to try is to map out the loss area to maybe find geographical explanation on how SWA leads to better generalization.**
